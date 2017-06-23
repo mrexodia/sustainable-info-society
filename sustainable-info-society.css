@@ -22,7 +22,7 @@
     opacity: 0.9;
 }
 .contact_form_container {
-    /* position: absolute; */
+    position: relative;
     width: 260px;
     top: 0;
     left: 0;
