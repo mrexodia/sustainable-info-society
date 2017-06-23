@@ -4,3 +4,12 @@
     left: 0%;
     width: 100%;
 }
+.details_product_price {
+    position: absolute;
+    bottom: 15%;
+    right: 15%;
+    padding: 10px;
+    color: #000000;
+    background-color: #FFFFFF;
+    text-align: right;
+}
