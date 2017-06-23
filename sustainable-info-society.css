@@ -13,3 +13,11 @@
     background-color: #FFFFFF;
     text-align: right;
 }
+.contact_address {
+    width: 260px;
+    padding: 20px;
+    /* height: 260px; */
+    margin: 20px auto 0px auto;
+    background: #fff;
+    opacity: 0.9;
+}
